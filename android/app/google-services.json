@@ -1,0 +1,139 @@
+{
+  "project_info": {
+    "project_number": "111398706125",
+    "firebase_url": "https://anime-plus-beb4e.firebaseio.com",
+    "project_id": "anime-plus-beb4e",
+    "storage_bucket": "anime-plus-beb4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111398706125:android:b5c25a2dc3e6acce76c284",
+        "android_client_info": {
+          "package_name": "com.cloverster.animestar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111398706125-e8cvb3lfsku1vbf4vkt7388dpm095kil.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloverster.animestar",
+            "certificate_hash": "d154da23888640a08315adf7981359e68b7d0dd8"
+          }
+        },
+        {
+          "client_id": "111398706125-gnvm16dce5e5pbap0gbt2afq15i4cp74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9mcbELCb0fM7ku7784r2mQrG0kRHqhKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111398706125-gnvm16dce5e5pbap0gbt2afq15i4cp74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111398706125:android:64070919aa53fb1a76c284",
+        "android_client_info": {
+          "package_name": "com.donzo.animeplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111398706125-1bsppehnb16d5p5vo2sojh05g7m8g925.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.donzo.animeplus",
+            "certificate_hash": "01cf9496d0367ebe045f1a2a62523e2bb48a177a"
+          }
+        },
+        {
+          "client_id": "111398706125-egngpi6us01p6sio1nqcu2frbikrpchd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.donzo.animeplus",
+            "certificate_hash": "01682dff74a49ea92c7c05345f448f72a0755186"
+          }
+        },
+        {
+          "client_id": "111398706125-d9mr71e512lr51k23tsdgdfolomuul9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.donzo.animeplus",
+            "certificate_hash": "156e6218db72dc402c6e7b668844c027d1c61a9b"
+          }
+        },
+        {
+          "client_id": "111398706125-gnvm16dce5e5pbap0gbt2afq15i4cp74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9mcbELCb0fM7ku7784r2mQrG0kRHqhKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111398706125-gnvm16dce5e5pbap0gbt2afq15i4cp74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6468480026731558~8964548930"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111398706125:android:abdd283bf77cb54276c284",
+        "android_client_info": {
+          "package_name": "org.animestar.animestar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111398706125-282fld243gr6maeas0b0ijj0go4rno10.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.animestar.animestar",
+            "certificate_hash": "c2589e6178e70d0abaa22a9ced8b018a97ba6b63"
+          }
+        },
+        {
+          "client_id": "111398706125-gnvm16dce5e5pbap0gbt2afq15i4cp74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9mcbELCb0fM7ku7784r2mQrG0kRHqhKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111398706125-gnvm16dce5e5pbap0gbt2afq15i4cp74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
