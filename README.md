@@ -1,16 +1,23 @@
-# animestar
+# Anime Star
 
-A new Flutter application.
+This is the app to keep track of all the anime and watch them
 
-## Getting Started
+## Features Available
+1. Registration and login using valid email address or by google and anonymous
+2. Notifications on new release
+3. Keep history and favorite anime in your list
+4. Elegent UI and user friendly
+5. Light and Dark mode theme
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<img src="https://github.com/bxs8072/animestar/blob/master/Screenshots/Screenshot_1648577542.png" alt="Authentication" height = "500" width="250"/>
+<img src="https://github.com/bxs8072/animestar/blob/master/Screenshots/Screenshot_1648578279.png" alt="Dashboard" height = "500" width="250"/>
+<img src="https://github.com/bxs8072/animestar/blob/master/Screenshots/Screenshot_1648578444.png" alt="Popular" height = "500" width="250"/>
+<img src="https://github.com/bxs8072/animestar/blob/master/Screenshots/Screenshot_1648578455.png" alt="Anime Detail" height = "500" width="250"/>
+<img src="https://github.com/bxs8072/animestar/blob/master/Screenshots/Screenshot_1648578469.png" alt="Episodes" height = "500" width="250"/>
+<img src="https://github.com/bxs8072/animestar/blob/master/Screenshots/Screenshot_1648578493.png" alt="Side Drawer" height = "500" width="250"/>
+<img src="https://github.com/bxs8072/animestar/blob/master/Screenshots/Screenshot_1648578501.png" alt="Profile Page" height = "500" width="250"/>
+<img src="https://github.com/bxs8072/animestar/blob/master/Screenshots/Screenshot_1648578513.png" alt="Dark Mode" height = "500" width="250"/>
+<img src="https://github.com/bxs8072/animestar/blob/master/Screenshots/Screenshot_1648578525.png" alt="Latest Release" height = "500" width="250"/>
+<img src="https://github.com/bxs8072/animestar/blob/master/Screenshots/Screenshot_1648578572.png" alt="Schedule" height = "500" width="250"/>
+<img src="https://github.com/bxs8072/animestar/blob/master/Screenshots/Screenshot_1648578686.png" alt="Search" height = "500" width="250"/>
