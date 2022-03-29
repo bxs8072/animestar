@@ -13,11 +13,11 @@ This is the app to keep track of all the anime and watch them
 <img src="https://github.com/bxs8072/animestar/blob/master/Screenshots/Screenshot_1648577542.png" alt="Authentication" height = "500" width="250"/>
 <img src="https://github.com/bxs8072/animestar/blob/master/Screenshots/Screenshot_1648578279.png" alt="Dashboard" height = "500" width="250"/>
 <img src="https://github.com/bxs8072/animestar/blob/master/Screenshots/Screenshot_1648578444.png" alt="Popular" height = "500" width="250"/>
+<img src="https://github.com/bxs8072/animestar/blob/master/Screenshots/Screenshot_1648578686.png" alt="Search" height = "500" width="250"/>
 <img src="https://github.com/bxs8072/animestar/blob/master/Screenshots/Screenshot_1648578455.png" alt="Anime Detail" height = "500" width="250"/>
 <img src="https://github.com/bxs8072/animestar/blob/master/Screenshots/Screenshot_1648578469.png" alt="Episodes" height = "500" width="250"/>
 <img src="https://github.com/bxs8072/animestar/blob/master/Screenshots/Screenshot_1648578493.png" alt="Side Drawer" height = "500" width="250"/>
-<img src="https://github.com/bxs8072/animestar/blob/master/Screenshots/Screenshot_1648578501.png" alt="Profile Page" height = "500" width="250"/>
-<img src="https://github.com/bxs8072/animestar/blob/master/Screenshots/Screenshot_1648578513.png" alt="Dark Mode" height = "500" width="250"/>
 <img src="https://github.com/bxs8072/animestar/blob/master/Screenshots/Screenshot_1648578525.png" alt="Latest Release" height = "500" width="250"/>
 <img src="https://github.com/bxs8072/animestar/blob/master/Screenshots/Screenshot_1648578572.png" alt="Schedule" height = "500" width="250"/>
-<img src="https://github.com/bxs8072/animestar/blob/master/Screenshots/Screenshot_1648578686.png" alt="Search" height = "500" width="250"/>
+<img src="https://github.com/bxs8072/animestar/blob/master/Screenshots/Screenshot_1648578501.png" alt="Profile Page" height = "500" width="250"/>
+<img src="https://github.com/bxs8072/animestar/blob/master/Screenshots/Screenshot_1648578513.png" alt="Dark Mode" height = "500" width="250"/>
